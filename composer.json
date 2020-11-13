@@ -1,0 +1,12 @@
+{
+    "name": "daniel/cc-05-api-php",
+    "authors": [
+        {
+            "name": "Daniel Primo",
+            "email": "delineas@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {"Src\\": "src/"}
+    }
+}
